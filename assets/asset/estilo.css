@@ -8,3 +8,56 @@ h1{
 h1{
     color: aqua;
 }
+p{
+    font-family:'Patrick Hand', cursive;
+    font-weight: bolder;
+    font-variant: normal;
+    
+    min-height: 20%;
+}
+
+h1{
+    font-size: xx-large;
+    font-weight: bolder;
+    font-style: italic;
+    text-shadow: 1px 3px 10px rgb(0, 0, 0) ;
+    border-radius: 15px;
+}
+
+li{
+    font-variant: small-caps;
+    letter-spacing: 1rem;
+    text-shadow: 1px 1px 2px rgb(248, 245, 245);
+    background-color: aqua;
+    width: 300px;
+
+}
+img{
+    width: 100px;
+}
+#none{
+    text-decoration: none;
+}
+.borde{
+    border-left: 2px solid black;
+    border-right: 5px dotted red;
+    border-top: 8px double blue;
+    border-bottom: 4px dashed green;
+}
+.espacio{
+    padding: 2rem 2rem 2rem 2rem;
+    border-radius: 10% / 20%;
+    border: 2px solid blue;
+}
+.box{
+    border-radius: 50px 15px;
+    border: 2px solid black;
+    
+}
+.bor{
+    border: 2px solid pink;
+    border-top-left-radius:     1em 5em;
+    border-top-right-radius:    1em 5em;
+    border-bottom-right-radius: 1em 5em;
+    border-bottom-left-radius:  1em 5em;
+}
